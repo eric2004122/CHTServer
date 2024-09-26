@@ -46,7 +46,8 @@ def main():
         thread.start()
 
 if __name__ == "__main__":
-    main()    import socket
+    main()   
+    import socket
     import threading
     
     # 設定伺服器的IP和端口
